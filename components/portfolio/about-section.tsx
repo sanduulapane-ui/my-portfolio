@@ -92,7 +92,7 @@ export function AboutSection() {
               {/* Photo */}
               <div className="relative h-80 w-72 overflow-hidden rounded-2xl border border-border/50 shadow-2xl sm:h-96 sm:w-80">
                 <img
-                  src="/images/red-20prof.jpeg"
+                  src="/public/images/red-20prof.jpeg"
                   alt="Sanduli Ulapane - Software Engineer"
                   className="h-full w-full object-cover object-top"
                 />
