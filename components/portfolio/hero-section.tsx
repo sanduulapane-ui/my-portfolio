@@ -240,7 +240,7 @@ export function HeroSection() {
             {/* Photo */}
             <div className="relative h-72 w-72 overflow-hidden rounded-full border-2 border-primary/20 shadow-2xl shadow-primary/20 sm:h-80 sm:w-80">
               <img
-                src="/public/images/red-20prof.jpeg"
+                src="/images/red-20prof.jpeg"
                 alt="Sanduli Ulapane"
                 className="h-full w-full object-cover object-top"
               />
